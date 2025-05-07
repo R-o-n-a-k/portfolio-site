@@ -1,6 +1,6 @@
-# Ronak Patel | HTML & CSS (FreeCodeCamp Practice)
+# HTML & CSS Challenge (FreeCodeCamp Practice)
 
-<img src="https://github.com/R-o-n-a-k/assets/blob/main/assets/Portfolio1.gif?raw=true" alt="Ronak HTML CSS Portfolio 1 Banner" width="100%" />
+<img src="https://github.com/R-o-n-a-k/assets/blob/0fa290e5006b25023e4c9429c1d7f5263820cdce/assets/Portfolio-site.gif?raw=true" alt="Ronak HTML CSS Portfolio 1 Banner" width="100%" />
 
 ## 🚀 About Project
 
@@ -8,7 +8,7 @@ This portfolio site was built as part of an **assignment on FreeCodeCamp** durin
 
 ## 🌐 Technologies Used
 
-- 🎨 **Frontend:** HTML5, CSS3 (Grid layout, card UI, custom styling)
+- 🎨 **Frontend:** HTML, CSS (Grid layout, card UI, custom styling)
 - ☁️ **Deployment:** GitHub Pages
 
 ## ✨ Features
@@ -32,4 +32,5 @@ cd portfolio-site
 ## 🌐 Live Demo
 🔗 [Portfolio-Site](https://r-o-n-a-k.github.io/portfolio-site/)
 
-<hr> <p align="center">A meaningful step in my design and layout learning - from basic blocks to structured portfolios.</p>
+<hr> 
+<p align="center">A meaningful step in my design and layout learning - from basic blocks to structured portfolios.</p>
