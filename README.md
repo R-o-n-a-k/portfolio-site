@@ -8,16 +8,16 @@ This portfolio site was built as part of an **assignment on FreeCodeCamp** durin
 
 ## 🌐 Technologies Used
 
-- 🎨 **Frontend:** HTML, CSS (Grid layout, card UI, custom styling)
-- ☁️ **Deployment:** GitHub Pages
+- **Frontend:** HTML, CSS (Grid layout, card UI, custom styling)
+- **Deployment:** GitHub Pages
 
 ## ✨ Features
 
-- 🧱 Grid-based layout with content cards
-- 📱 Mobile-responsive design
-- 🖼️ Image integration for better visuals
-- 💼 Portfolio-style sections (projects, contact, etc.)
-- 🎯 Basic interaction and styling with clean design
+- Grid-based layout with content cards
+- Mobile-responsive design
+- Image integration for better visuals
+- Portfolio-style sections (projects, contact, etc.)
+- Basic interaction and styling with clean design
 
 ## ⚙️ Getting Started
 
